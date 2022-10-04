@@ -1,0 +1,12 @@
+D:\Aboat Entertainment\Micro_Backend\Users\UserRepository\bin\Debug\net6.0\UserRepository.deps.json
+D:\Aboat Entertainment\Micro_Backend\Users\UserRepository\bin\Debug\net6.0\UserRepository.dll
+D:\Aboat Entertainment\Micro_Backend\Users\UserRepository\bin\Debug\net6.0\UserRepository.pdb
+D:\Aboat Entertainment\Micro_Backend\Users\UserRepository\obj\Debug\net6.0\UserRepository.csproj.AssemblyReference.cache
+D:\Aboat Entertainment\Micro_Backend\Users\UserRepository\obj\Debug\net6.0\UserRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aboat Entertainment\Micro_Backend\Users\UserRepository\obj\Debug\net6.0\UserRepository.AssemblyInfoInputs.cache
+D:\Aboat Entertainment\Micro_Backend\Users\UserRepository\obj\Debug\net6.0\UserRepository.AssemblyInfo.cs
+D:\Aboat Entertainment\Micro_Backend\Users\UserRepository\obj\Debug\net6.0\UserRepository.csproj.CoreCompileInputs.cache
+D:\Aboat Entertainment\Micro_Backend\Users\UserRepository\obj\Debug\net6.0\UserRepository.dll
+D:\Aboat Entertainment\Micro_Backend\Users\UserRepository\obj\Debug\net6.0\refint\UserRepository.dll
+D:\Aboat Entertainment\Micro_Backend\Users\UserRepository\obj\Debug\net6.0\UserRepository.pdb
+D:\Aboat Entertainment\Micro_Backend\Users\UserRepository\obj\Debug\net6.0\ref\UserRepository.dll
